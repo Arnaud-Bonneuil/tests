@@ -3,6 +3,8 @@
 !includeurl https://gist.githubusercontent.com/Arnaud-Bonneuil/c317a7a30bed7d64e2b5b1f558ac00cf/raw/sober.puml
 
 '!include T_Board_State!T_Board_State
+!includeurl https://raw.githubusercontent.com/Arnaud-Bonneuil/tests/main/T_Board_State.puml
+
 '!include T_Position!T_Position
 '!include T_Position!T_Rank
 '!include T_Position!T_File
